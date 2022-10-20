@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UDeposits</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Deposits</string>
+    <string name="nav_header_subtitle">||||||||</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Обрати валюту</string>
+    <string name="menu_gallery">Таблиця депозитiв</string>
+    <string name="menu_slideshow">Пошук</string>
+    <string name="menu_tools">Калькулятор</string>
+    <string name="menu_send">Графiки</string>
+    <string name="menu_share">Iнформацiя</string>
+    <string name="menu_author">Про автора</string>
+
+    <string name="UAH">UAH</string>
+    <string name="USD">USD</string>
+    <string name="EURO">EURO</string>
+
+    <string name="bankName">Банк</string>
+    <string name="percent">%</string>
+    <string name="duration">Перiод</string>
+    <string name="payout">Виплата</string>
+
+    <string name="main">Оберiть валюту</string>
+    <string name="chooseBank">Назва банку</string>
+    <string name="details">Детальнiше</string>
+    <string name="period">Перiод</string>
+    <string name="percentField">Вiдсоток</string>
+    <string name="currency">Валюта</string>
+</resources>
